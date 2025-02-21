@@ -1,0 +1,19 @@
+# config.yaml
+
+data_path: "GB.csv"
+model_name: "distilbert-base-uncased"
+output_dir: "./results"
+
+training:
+  learning_rate: 2e-5
+  evaluation_strategy: "epoch"
+  save_strategy: "epoch"
+  load_best_model_at_end: true
+  num_train_epochs: 10
+  per_device_train_batch_size: 64
+  per_device_eval_batch_size: 64
+
+metrics:
+  - "precision"
+  - "recall"
+  - "accuracy"
