@@ -11,5 +11,5 @@ For a comprehensive guide on the methods and implementation, refer to the articl
 
 ## Resources
 
-- [Medium Article]([https://medium.com/@AI_MLwithJonny/fine-tuning-transformers-with-hugging-face-for-text-classification-a10d1b05f961](https://medium.com/@AI_MLwithJonny/fine-tuning-transformers-with-hugging-face-for-text-classification-a10d1b05f961)) for in-depth analysis and step-by-step instructions.
+- [Medium Article]([https://medium.com/@AI_MLwithJonny/fine-tuning-transformers-with-hugging-face-for-text-classification-a10d1b05f961](https://medium.com/@AI_MLwithJonny/fine-tuning-transformers-with-hugging-face-for-text-classification-a10d1b05f961])) for in-depth analysis and step-by-step instructions.
 
